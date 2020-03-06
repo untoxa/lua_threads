@@ -1,0 +1,14 @@
+/bin
+/exe
+/units
+/backup
+/release
+*.bak
+*.dof
+*.dsk
+*.exe
+*.dll
+*.so
+@build*.bat
+*.tlb
+*.pyc
